@@ -9,7 +9,7 @@ on:
     branches: ["main"]
 
 env:
-  USER_NAME: p1ty-0615
+  USER_NAME: howtopretend
 
 jobs:
   github-metrics:
